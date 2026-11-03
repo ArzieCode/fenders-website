@@ -1,6 +1,10 @@
 node_modules/
 build/
 dist/
+.next/
+.netlify/
+.vercel/
+*.tsbuildinfo
 coverage/
 .DS_Store
 *.log
